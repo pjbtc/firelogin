@@ -1,1 +1,2 @@
 # firelogin
+This website is basically made up of reactjs and firebase. This app gives login authentication of users using firebase database. Firebase is a Backend-as-a-Service (Baas). It provides developers with a variety of tools and services to help them develop quality apps, grow their user base, and earn profit. It is built on Google's infrastructure. Firebase is categorized as a NoSQL database program, which stores data in JSON-like documents.
